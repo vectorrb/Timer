@@ -1,1 +1,1 @@
-### Basic Timer using HTML/CSs
+### Basic Timer using HTML/CSS
